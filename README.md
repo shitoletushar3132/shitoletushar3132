@@ -1,15 +1,15 @@
-<img align="right" src="https://wakatime.com/badge/user/018e92de-fd36-49db-920c-68aa5cee604c/project/018e932a-3a73-4302-b5ed-3f5873c54ae6.svg" />
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Sangam5756.sangammundhe" />
+ <img align="right" src="https://wakatime.com/badge/user/018e92de-fd36-49db-920c-68aa5cee604c/project/018e932a-3a73-4302-b5ed-3f5873c54ae6.svg" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=shitoletushar3132.shitoletushar3132" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Sangam+Mundhe!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Tushar+Shitole!;" />
 </h1>
 <h3 align="center">A passionate software developer from India</h3>
 <div align="center"> 
-  <a href="mailto:sangammunde3@gmail.com">
+  <a href="mailto:shitoletushar3132@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://www.linkedin.com/in/sangammundhe" target="_blank">
+  <a href="https://www.linkedin.com/in/shitoletushar3132" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
 </div>
 
