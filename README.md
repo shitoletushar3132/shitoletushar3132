@@ -6,7 +6,7 @@
 </h1>
 <h3 align="center">A passionate software developer from India</h3>
 <div align="center"> 
-  <a href="mailto:shitoletushar3132@gmail.com">
+  <a href="mailto:shitoletushar3132@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://www.linkedin.com/in/shitoletushar3132" target="_blank">
@@ -22,15 +22,15 @@
 <hr/>
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2> 
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/sangam5756/sangammundhe/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/shitoletushar3132/shitoletushar3132/output/github-contribution-grid-snake.svg" />
  </div>
 <hr/>
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=390 src="https://streak-stats.demolab.com?user=Sangam5756&theme=dark&date_format=j%20M%5B%20Y%5D" alt="streak stats"/>
+  <img width=390 src="https://streak-stats.demolab.com?user=shitoletushar3132&theme=dark&date_format=j%20M%5B%20Y%5D" alt="streak stats"/>
 <!--   https://leetcode.com/sangammunde3/ -->
-  <img width=390 src="https://leetcode.card.workers.dev/sangammunde3?theme=dark&font=baloo&extension=null&theme=dark"/>
+  <img width=390 src="https://leetcode.card.workers.dev/shitoletushar3132?theme=dark&font=baloo&extension=null&theme=dark"/>
     <br>
-  <img  width=600 height=530 src="https://wakatime.com/share/@sangammundhe/e8516248-30ab-4b62-8302-7724b68e5f9e.svg"/>
+  <img  width=600 height=530 src="https://wakatime.com/share/@shitoletushar3132/e8516248-30ab-4b62-8302-7724b68e5f9e.svg"/>
 </div>
