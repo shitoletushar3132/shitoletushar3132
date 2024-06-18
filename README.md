@@ -6,7 +6,7 @@ I'm a passionate **MERN Stack Developer** with a knack for building dynamic and 
 - 🌱 I’m currently learning more about cloud services and advanced React patterns.
 - 👯 I’m looking to collaborate on open-source projects and innovative startups.
 - 💬 Ask me about anything related to JavaScript/TypeScript, React, and Node.js.
-- 📫 How to reach me: [shitoletushar3132@gmail.com]
+- 📫 How to reach me: shitoletushar3132@gmail.com
 - ⚡ Fun fact: I love to play the guitar and explore new technologies.
 
 ## My Skill Set
