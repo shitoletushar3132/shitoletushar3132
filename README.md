@@ -1,4 +1,4 @@
-# Hello, I'm Tushar Shit 👋
+# Hello, I'm Tushar Shitle 👋
 
 I'm a passionate **MERN Stack Developer** with a knack for building dynamic and responsive web applications. I specialize in creating end-to-end solutions using **MongoDB**, **Express.js**, **React**, and **Node.js**.
 
@@ -25,6 +25,6 @@ I'm a passionate **MERN Stack Developer** with a knack for building dynamic and 
 - RESTful APIs
 - JWT Authentication
 
-Feel free to check out my portfolio https://tusharshitole-portfolio.onrender.com and connect with me on LinkedIn https://www.linkedin.com/in/shitoletushar3132/.
+Feel free to check out my portfolio https://tusharshitole-portfolio.onrender.com and connect with me on LinkedIn <a href="https://www.linkedin.com/in/shitoletushar3132/" target="_blank">LinkedIn</a>.
 
 Let's build something amazing together!
