@@ -25,6 +25,6 @@ I'm a passionate **MERN Stack Developer** with a knack for building dynamic and 
 - RESTful APIs
 - JWT Authentication
 
-Feel free to check out my portfolio [https://tusharshitole-portfolio.onrender.com] and connect with me on LinkedIn [https://www.linkedin.com/in/shitoletushar3132/].
+Feel free to check out my portfolio https://tusharshitole-portfolio.onrender.com and connect with me on LinkedIn https://www.linkedin.com/in/shitoletushar3132/.
 
 Let's build something amazing together!
