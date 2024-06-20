@@ -1,4 +1,4 @@
-# Hello, I'm Tushar Shitle 👋
+# Hello, I'm Tushar Shitole 👋
 
 I'm a passionate **MERN Stack Developer** with a knack for building dynamic and responsive web applications. I specialize in creating end-to-end solutions using **MongoDB**, **Express.js**, **React**, and **Node.js**.
 
