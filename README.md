@@ -11,7 +11,7 @@ I'm a passionate **MERN Stack Developer** with a knack for building dynamic and 
 
 ## My Skill Set
 ### Frontend:
-- Proficient in: **React.js**, **Redux**, **HTML5**, **CSS3**, **Bootstrap**, **Material-UI**
+- Proficient in: **React.js**, **Redux**, **HTML5**, **CSS3**, **Bootstrap**, **Material-UI**, **Tailwind**
 
 ### Backend:
 - Proficient in: **Node.js**, **Express.js**
