@@ -14,7 +14,7 @@ I'm a passionate **MERN Stack Developer** with a knack for building dynamic and 
 - Proficient in: **React.js**, **Redux**, **HTML5**, **CSS3**, **Bootstrap**, **Material-UI**, **Tailwind**
 
 ### Backend:
-- Proficient in: **Node.js**, **Express.js**
+- Proficient in: **Node.js**, **Express.js**,
 
 ### Database:
 - Proficient in: **MongoDB**
@@ -24,6 +24,9 @@ I'm a passionate **MERN Stack Developer** with a knack for building dynamic and 
 - Version Control/Git
 - RESTful APIs
 - JWT Authentication
+- AWS
+- Docker
+- Nginx
 
 Feel free to check out my portfolio <a href="https://tushars-portfolio.onrender.com" target="_blank">See Portfolio</a> and connect with me on LinkedIn <a href="https://www.linkedin.com/in/shitoletushar3132/" target="_blank">LinkedIn</a>.
 
