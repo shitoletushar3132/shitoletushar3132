@@ -11,14 +11,14 @@ I'm a passionate **MERN Stack Developer** with a knack for building dynamic and 
 
 ## My Skill Set
 ### Frontend:
-- Proficient in: **React.js**, **React Native**, **Redux**, **HTML5**, **CSS3**, **Bootstrap**, **Material-UI**, **Tailwind**
+- Proficient in: **React.js**, **React Native**, **Redux**, **Recoil**, **HTML5**, **CSS3**, **Bootstrap**, **Material-UI**, **Tailwind**
 
 ### Backend:
-- Proficient in: **Node.js**, **Express.js**,
+- Proficient in: **Node.js**, **Express.js**
 
 ### Database:
 - Proficient in: **MongoDB**
-- Familiar with: **MySQL**, **PostgreSQL**, **Radis**
+- Familiar with: **MySQL**, **PostgreSQL**, **Redis**
 
 ### Tools & Technologies:
 - Version Control/Git
@@ -27,6 +27,9 @@ I'm a passionate **MERN Stack Developer** with a knack for building dynamic and 
 - AWS
 - Docker
 - Nginx
+
+![Tushar's GitHub stats](https://github-readme-stats.vercel.app/api?username=shitoletushar3132&show_icons=true&theme=radical)
+
 
 Feel free to check out my portfolio <a href="https://tusharshitole.site" target="_blank">See Portfolio</a> and connect with me on LinkedIn <a href="https://www.linkedin.com/in/shitoletushar3132/" target="_blank">LinkedIn</a>.
 
