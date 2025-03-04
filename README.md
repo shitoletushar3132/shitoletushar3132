@@ -11,14 +11,14 @@ I'm a passionate **MERN Stack Developer** with a knack for building dynamic and 
 
 ## My Skill Set
 ### Frontend:
-- Proficient in: **React.js**, **Redux**, **HTML5**, **CSS3**, **Bootstrap**, **Material-UI**, **Tailwind**
+- Proficient in: **React.js**, **React Native**, **Redux**, **HTML5**, **CSS3**, **Bootstrap**, **Material-UI**, **Tailwind**
 
 ### Backend:
 - Proficient in: **Node.js**, **Express.js**,
 
 ### Database:
 - Proficient in: **MongoDB**
-- Familiar with: **MySQL**, **PostgreSQL**
+- Familiar with: **MySQL**, **PostgreSQL**, **Radis**
 
 ### Tools & Technologies:
 - Version Control/Git
